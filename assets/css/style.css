@@ -28,6 +28,9 @@ div.gems {
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   animation: gradient 15s ease infinite;
 }
+div.gems {
+  width: 19%;
+}
 div.header,
 div.instructions {
   width: 50%;
@@ -48,4 +51,5 @@ div.instructions {
 .gemImage {
   height: 60px;
   margin: 10px;
+  margin-left: 10px;
 }
